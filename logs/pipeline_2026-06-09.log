@@ -1,0 +1,122 @@
+2026-06-09 09:30:11,503 - INFO - Input Directory: input
+2026-06-09 09:30:11,504 - INFO - Output Directory: output
+2026-06-09 09:30:11,504 - INFO - Pipeline started
+2026-06-09 09:30:11,504 - INFO - Generating mock data
+2026-06-09 09:30:11,552 - INFO - Loading data
+2026-06-09 09:30:11,559 - INFO - Files loaded successfully
+2026-06-09 09:30:11,562 - INFO - Removed 20 duplicates
+2026-06-09 09:30:11,564 - INFO - Filled 163 discount nulls
+2026-06-09 09:30:11,564 - INFO - Removed 30 negative quantity rows
+2026-06-09 09:30:11,575 - INFO - Sales cleaned. 1020 -> 970 rows
+2026-06-09 09:30:11,576 - INFO - 40 products marked for reorder
+2026-06-09 09:30:11,576 - INFO - Running analytics
+2026-06-09 09:30:11,611 - INFO - Generating charts
+2026-06-09 09:30:12,167 - INFO - Weekly revenue chart created.
+2026-06-09 09:30:12,487 - INFO - Region revenue chart created.
+2026-06-09 09:30:12,487 - INFO - Generating Excel report
+2026-06-09 09:30:12,533 - INFO - Excel report created: output/MIS_Report_20260609.xlsx
+2026-06-09 09:30:12,533 - INFO - Generating PDF report
+2026-06-09 09:30:13,201 - INFO - PDF report created: output/MIS_Summary_20260609.pdf
+2026-06-09 09:30:13,201 - INFO - Pipeline completed successfully
+2026-06-09 09:45:03,116 - INFO - Input Directory: input
+2026-06-09 09:45:03,116 - INFO - Output Directory: output
+2026-06-09 09:45:03,116 - INFO - Pipeline started
+2026-06-09 09:45:03,116 - INFO - Generating mock data
+2026-06-09 09:45:03,149 - INFO - Loading data
+2026-06-09 09:45:03,157 - INFO - Files loaded successfully
+2026-06-09 09:45:03,158 - INFO - Removed 20 duplicates
+2026-06-09 09:45:03,158 - INFO - Filled 216 discount nulls
+2026-06-09 09:45:03,159 - INFO - Removed 30 negative quantity rows
+2026-06-09 09:45:03,162 - INFO - Sales cleaned. 1020 -> 970 rows
+2026-06-09 09:45:03,163 - INFO - 42 products marked for reorder
+2026-06-09 09:45:03,163 - INFO - Running analytics
+2026-06-09 09:45:03,179 - INFO - Generating charts
+2026-06-09 09:45:03,705 - INFO - Weekly revenue chart created.
+2026-06-09 09:45:04,016 - INFO - Region revenue chart created.
+2026-06-09 09:45:04,016 - INFO - Generating Excel report
+2026-06-09 09:45:04,062 - INFO - Excel report created: output/MIS_Report_20260609.xlsx
+2026-06-09 09:45:04,062 - INFO - Generating PDF report
+2026-06-09 09:45:04,723 - INFO - PDF report created: output/MIS_Summary_20260609.pdf
+2026-06-09 09:45:04,723 - INFO - Pipeline completed successfully
+2026-06-09 09:46:27,190 - INFO - Input Directory: custom_input
+2026-06-09 09:46:27,190 - INFO - Output Directory: output
+2026-06-09 09:46:27,190 - INFO - Pipeline started
+2026-06-09 09:46:27,190 - INFO - Generating mock data
+2026-06-09 09:46:27,224 - INFO - Loading data
+2026-06-09 09:46:27,232 - INFO - Files loaded successfully
+2026-06-09 09:46:27,233 - INFO - Removed 20 duplicates
+2026-06-09 09:46:27,234 - INFO - Filled 216 discount nulls
+2026-06-09 09:46:27,235 - INFO - Removed 30 negative quantity rows
+2026-06-09 09:46:27,237 - INFO - Sales cleaned. 1020 -> 970 rows
+2026-06-09 09:46:27,238 - INFO - 42 products marked for reorder
+2026-06-09 09:46:27,238 - INFO - Running analytics
+2026-06-09 09:46:27,255 - INFO - Generating charts
+2026-06-09 09:46:27,793 - INFO - Weekly revenue chart created.
+2026-06-09 09:46:28,118 - INFO - Region revenue chart created.
+2026-06-09 09:46:28,118 - INFO - Generating Excel report
+2026-06-09 09:46:28,169 - INFO - Excel report created: output/MIS_Report_20260609.xlsx
+2026-06-09 09:46:28,170 - INFO - Generating PDF report
+2026-06-09 09:46:28,856 - INFO - PDF report created: output/MIS_Summary_20260609.pdf
+2026-06-09 09:46:28,856 - INFO - Pipeline completed successfully
+2026-06-09 09:47:02,645 - INFO - Input Directory: input
+2026-06-09 09:47:02,645 - INFO - Output Directory: custom_output
+2026-06-09 09:47:02,645 - INFO - Pipeline started
+2026-06-09 09:47:02,645 - INFO - Generating mock data
+2026-06-09 09:47:02,681 - INFO - Loading data
+2026-06-09 09:47:02,691 - INFO - Files loaded successfully
+2026-06-09 09:47:02,692 - INFO - Removed 20 duplicates
+2026-06-09 09:47:02,692 - INFO - Filled 219 discount nulls
+2026-06-09 09:47:02,693 - INFO - Removed 30 negative quantity rows
+2026-06-09 09:47:02,696 - INFO - Sales cleaned. 1020 -> 970 rows
+2026-06-09 09:47:02,696 - INFO - 33 products marked for reorder
+2026-06-09 09:47:02,697 - INFO - Running analytics
+2026-06-09 09:47:02,714 - INFO - Generating charts
+2026-06-09 09:47:03,285 - INFO - Weekly revenue chart created.
+2026-06-09 09:47:03,643 - INFO - Region revenue chart created.
+2026-06-09 09:47:03,643 - INFO - Generating Excel report
+2026-06-09 09:47:03,697 - INFO - Excel report created: custom_output/MIS_Report_20260609.xlsx
+2026-06-09 09:47:03,697 - INFO - Generating PDF report
+2026-06-09 09:47:04,430 - INFO - PDF report created: custom_output/MIS_Summary_20260609.pdf
+2026-06-09 09:47:04,430 - INFO - Pipeline completed successfully
+2026-06-09 09:47:24,486 - INFO - Input Directory: custom_input1
+2026-06-09 09:47:24,487 - INFO - Output Directory: custom_output1
+2026-06-09 09:47:24,487 - INFO - Pipeline started
+2026-06-09 09:47:24,487 - INFO - Generating mock data
+2026-06-09 09:47:24,528 - INFO - Loading data
+2026-06-09 09:47:24,533 - INFO - Files loaded successfully
+2026-06-09 09:47:24,534 - INFO - Removed 20 duplicates
+2026-06-09 09:47:24,535 - INFO - Filled 219 discount nulls
+2026-06-09 09:47:24,536 - INFO - Removed 30 negative quantity rows
+2026-06-09 09:47:24,540 - INFO - Sales cleaned. 1020 -> 970 rows
+2026-06-09 09:47:24,541 - INFO - 33 products marked for reorder
+2026-06-09 09:47:24,541 - INFO - Running analytics
+2026-06-09 09:47:24,560 - INFO - Generating charts
+2026-06-09 09:47:25,146 - INFO - Weekly revenue chart created.
+2026-06-09 09:47:25,479 - INFO - Region revenue chart created.
+2026-06-09 09:47:25,479 - INFO - Generating Excel report
+2026-06-09 09:47:25,532 - INFO - Excel report created: custom_output1/MIS_Report_20260609.xlsx
+2026-06-09 09:47:25,532 - INFO - Generating PDF report
+2026-06-09 09:47:26,246 - INFO - PDF report created: custom_output1/MIS_Summary_20260609.pdf
+2026-06-09 09:47:26,246 - INFO - Pipeline completed successfully
+2026-06-09 09:47:39,521 - INFO - Input Directory: custom_input2
+2026-06-09 09:47:39,521 - INFO - Output Directory: custom_output2
+2026-06-09 09:47:39,522 - INFO - Pipeline started
+2026-06-09 09:47:39,522 - INFO - Generating mock data
+2026-06-09 09:47:39,556 - INFO - Loading data
+2026-06-09 09:47:39,561 - INFO - Files loaded successfully
+2026-06-09 09:47:39,562 - INFO - Removed 20 duplicates
+2026-06-09 09:47:39,562 - INFO - Filled 219 discount nulls
+2026-06-09 09:47:39,563 - INFO - Removed 30 negative quantity rows
+2026-06-09 09:47:39,566 - INFO - Sales cleaned. 1020 -> 970 rows
+2026-06-09 09:47:39,568 - INFO - 33 products marked for reorder
+2026-06-09 09:47:39,568 - INFO - Running analytics
+2026-06-09 09:47:39,598 - INFO - Generating charts
+2026-06-09 09:47:40,159 - INFO - Weekly revenue chart created.
+2026-06-09 09:47:40,478 - INFO - Region revenue chart created.
+2026-06-09 09:47:40,478 - INFO - Generating Excel report
+2026-06-09 09:47:40,529 - INFO - Excel report created: custom_output2/MIS_Report_20260609.xlsx
+2026-06-09 09:47:40,529 - INFO - Generating PDF report
+2026-06-09 09:47:41,224 - INFO - PDF report created: custom_output2/MIS_Summary_20260609.pdf
+2026-06-09 09:47:41,224 - INFO - Pipeline completed successfully
+2026-06-09 09:47:56,314 - INFO - Input Directory: input
+2026-06-09 09:47:56,315 - INFO - Output Directory: output
